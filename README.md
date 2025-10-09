@@ -1,3 +1,7 @@
+![DualMind ](https://socialify.git.ci/harivarshney/DualMind/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Charlie+Brown&stargazers=1&theme=Dark)
+
+
+
 # 🧠 DualMind - AI-Powered Content Processor
 
 **Smart transcription and analysis tool for YouTube videos and PDF documents**

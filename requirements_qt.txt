@@ -1,0 +1,47 @@
+# DualMind Desktop Application - Complete Requirements
+# ALL dependencies needed for standalone EXE distribution
+
+# ===== CORE GUI FRAMEWORK =====
+PyQt5>=5.15.0
+
+# ===== AI & MACHINE LEARNING =====
+openai-whisper>=20231117
+torch>=2.0.0  
+torchaudio>=2.0.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# ===== AUDIO PROCESSING =====
+librosa>=0.9.0
+soundfile>=0.10.0
+audioread>=2.1.9
+resampy>=0.3.1
+numba>=0.56.0
+
+# ===== VIDEO/YOUTUBE PROCESSING =====
+yt-dlp>=2023.7.6
+ffmpeg-python>=0.2.0
+
+# ===== DOCUMENT PROCESSING =====
+PyPDF2>=3.0.1
+python-docx>=1.2.0
+reportlab>=4.0.4
+
+# ===== UTILITIES & DEPENDENCIES =====
+requests>=2.28.0
+urllib3>=1.26.0
+certifi>=2022.0.0
+charset-normalizer>=2.0.0
+tqdm>=4.64.0
+filelock>=3.8.0
+regex>=2022.7.9
+packaging>=21.0
+typing-extensions>=4.3.0
+
+# ===== BUILD TOOLS (for EXE creation) =====
+pyinstaller>=5.0
+wheel>=0.37.0
+setuptools>=65.0.0
+
+# Note: This comprehensive list ensures the EXE will be completely self-contained
+# Client devices will NOT need Python or any packages pre-installed

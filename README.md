@@ -115,10 +115,6 @@ dualmind/
 
 This project is licensed under the MIT License.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues and enhancement requests.
-
 ---
 
 **Built with ❤️ using Python, PyQt5, and OpenAI Whisper**

@@ -19,6 +19,9 @@
 - 💾 **Export Results**: Save transcriptions and analyses as text files
 - 🎨 **Modern GUI**: Clean PyQt5 interface with progress tracking
 
+## Preview
+![DualMind](https://youtu.be/NH-FQCm7ewo?si=9adoJDB1fW4RqKMF)
+
 ## 🛠️ Installation
 
 ### Prerequisites

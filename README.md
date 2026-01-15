@@ -23,6 +23,8 @@
 
 [![DualMind](https://img.youtube.com/vi/NH-FQCm7ewo/hqdefault.jpg)](https://www.youtube.com/watch?v=NH-FQCm7ewo)
 
+> Click the image to watch the demo
+
 ## 🛠️ Installation
 
 ### Prerequisites

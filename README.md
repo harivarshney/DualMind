@@ -20,7 +20,8 @@
 - 🎨 **Modern GUI**: Clean PyQt5 interface with progress tracking
 
 ## Preview
-![DualMind](https://youtu.be/NH-FQCm7ewo?si=9adoJDB1fW4RqKMF)
+
+[![DualMind](https://img.youtube.com/vi/NH-FQCm7ewo/hqdefault.jpg)](https://www.youtube.com/watch?v=NH-FQCm7ewo)
 
 ## 🛠️ Installation
 
